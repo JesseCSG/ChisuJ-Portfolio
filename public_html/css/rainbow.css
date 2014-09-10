@@ -1,20 +1,28 @@
+/*Sets background image and change text color to whitesmoke.*/
+
 body {
-    background-color: bisque;
+    background-image: url(http://www.picturesgoogle.com/wp-content/uploads/2014/01/world-technology-background.jpg);
+    color: whitesmoke
 }
+/*Changes color of text to ghostwhite.*/
+
 a{
-    color: cadetblue;
+    color: ghostwhite;
 }
+/*Disables underlines of links.*/
 
 #current-link{
     text-decoration: none;
 }
+/*Enables margin as well as font style change.*/
 
 h1{
     margin-top: 10px;
     margin-bottom: 10px;
     font-style: oblique;
 }
-    
+/*Creats border and changes text color to lightskyblue.*/
+
 nav{
     border: 3px;
     border-style: groove;

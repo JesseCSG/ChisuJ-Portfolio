@@ -1,25 +1,34 @@
-body {
-    background-color: whitesmoke;
+
+/*Specifies that i want a background image and whitesmoke as my text color.*/
+
+body{
+    background-image:url(http://wallpaper-download.net/wallpapers/random-wallpapers-technology-desktop-background-wallpaper-33992.jpg);
+    color: whitesmoke;
 }
+/*Changes color to be ghoswhite.*/
 
 a {
-    color: cadetblue;
+    color: ghostwhite;
 }
+/*Disables the underlines under links.*/
 
 #current-link{
     text-decoration: none;
 }
+/*Puts spacing where I specified. Also changes font color*/
 
-h1{
+h1
     margin-top: 10px;
     margin-bottom: 10px;
     font-style: oblique;
 }
+/*Makes picture specified size.*/
 
 img{
     width: 300px;
     color: whitesmoke;
 }
+/* border on main-hub and changes color to lightskyblue.*/
 
 nav{
     border: 3px;

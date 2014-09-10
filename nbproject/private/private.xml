@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>public_html/Projects.html</url>
+            <bookmark id="2">
+                <name/>
+                <line>29</line>
+                <key/>
+            </bookmark>
+        </file>
         <file>
             <url>public_html/Techology.html</url>
             <bookmark id="1">
                 <name/>
-                <line>57</line>
+                <line>60</line>
                 <key/>
             </bookmark>
         </file>
@@ -17,10 +25,7 @@
             <file>file:/C:/xampp/htdocs/ChisuJ%20Portfolio/public_html/css/white%20color.css</file>
             <file>file:/C:/xampp/htdocs/ChisuJ%20Portfolio/public_html/Projects.html</file>
             <file>file:/C:/xampp/htdocs/ChisuJ%20Portfolio/public_html/css/style.css</file>
-            <file>file:/C:/xampp/htdocs/ChisuJ%20Portfolio/public_html/Misc/ScreenShot.png</file>
             <file>file:/C:/xampp/htdocs/ChisuJ%20Portfolio/public_html/Techology.html</file>
-            <file>file:/C:/xampp/htdocs/ChisuJ%20Portfolio/public_html/Misc/Logo.png</file>
-            <file>file:/C:/xampp/htdocs/ChisuJ%20Portfolio/public_html/Misc/Screenshot2.png</file>
         </group>
     </open-files>
 </project-private>
